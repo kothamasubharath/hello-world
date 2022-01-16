@@ -2,7 +2,7 @@
 From tomcat:latest
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
+MAINTAINER "bharathkothamasu541@gmail.com" 
 
 #copy war file into container
 COPY ./webapp.war /usr/local/tomcat/webapp
